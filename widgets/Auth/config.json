@@ -1,0 +1,62 @@
+{
+    "signIn": [
+        {
+            "initialValues": {
+                "name": "",
+                "password": ""
+            },
+            "title": "Please login",
+            "fields": [
+                {
+                    "type": "text",
+                    "label": "Username",
+                    "name": "name"
+                },
+                {
+                    "type": "password",
+                    "label": "Password",
+                    "name": "password"
+                }
+            ]
+        }
+    ],
+    "signUp": [
+        {
+            "initialValues": {
+                "name": "",
+                "surName": "",
+                "email": "",
+                "password": "",
+                "repeatPassword": ""
+            },
+            "title": "Create new account",
+            "fields": [
+                {
+                    "type": "text",
+                    "label": "Your name",
+                    "name": "name"
+                },
+                {
+                    "type": "text",
+                    "label": "Your surname",
+                    "name": "surName"
+                },
+                {
+                    "type": "email",
+                    "label": "Your email",
+                    "name": "email"
+                },
+                {
+                    "type": "password",
+                    "label": "Password",
+                    "name": "password"
+                },
+                {
+                    "type": "password",
+                    "label": "Repeat password",
+                    "name": "repeatPassword"
+                }
+            ]
+        }
+    ]
+}
