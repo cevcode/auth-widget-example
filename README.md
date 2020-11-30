@@ -1,6 +1,6 @@
 ## Example of auth page
 ! Code is not working, just only for reading<br>
-All paths are invalid, I didnt't provide config with aliases<br>
+All paths are invalid, I didnt provide config with aliases<br>
 Can show working example locally if it needed.
 
 #### Stack: React, Typescript, Mobx, Styled-components
