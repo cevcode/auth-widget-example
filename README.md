@@ -5,7 +5,7 @@ Can show working example locally if it needed.
 
 #### Stack: React, Typescript, Mobx, Styled-components
 
-###Structure:
+### Structure:
 - `AuthPage` - entry point of single page for Authorization<br>
 - `helpers` - folder with all helper function for global project structure<br>
 - `ui` - folder with some elements of UI design system
